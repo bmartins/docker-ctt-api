@@ -1,0 +1,7 @@
+bottle==0.12.13
+pytz==2017.2
+uWSGI==2.0.15
+wsgiref==0.1.2
+ctt==0.0.2
+BeautifulSoup
+bs4
